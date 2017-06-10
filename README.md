@@ -1,4 +1,4 @@
-<a href="mailto:bsg115@ic.ac.uk?subject=3D%20Print%20Request&body=Fill%20out%20the%20questions%20below.%0A%0AName%20of%20STL%20file:%0ASTL%20file%20attached%20(yes/no)?%0AI%20need%20it%20by:%0APreferably%20print%20with%20this%20orientation:">
+<a href="mailto:bsg115@ic.ac.uk?subject=3D%20Print%20Request&body=Attach%20your%20STL%20file.%0A%0AI%20need%20it%20by:%0APreferably%20print%20with%20this%20orientation:">
    <img src="https://github.com/nebbles/Di3-Upgrades/blob/master/image.png" width="250">
 </a>
 
