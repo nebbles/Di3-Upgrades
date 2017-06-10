@@ -15,7 +15,7 @@ Recommended upgrades [list](https://makerhacks.com/upgrading-wanhao-di3/):
  - [ ] X-Axis levelling
  - [ ] Bed levelling
  - [ ] Glass / PEI bed protection
- - [ ] Remove spring belt tensioners
+ - [ ] Remove spring belt tensioners (https://www.thingiverse.com/thing:1820493)
  - [ ] Tweak acceleration and jerk
  - [ ] Duplicator 4 drive gear
  - [ ] Flex couplers
