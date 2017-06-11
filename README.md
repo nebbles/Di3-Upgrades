@@ -16,7 +16,7 @@ For cloud control and monitoring, see [Octoprint](http://octoprint.org/#full-rem
 Alternative Cura settings found [here](https://www.3dhubs.com/talk/thread/wanhao-duplicator-i3-cura-settinings).
 
 Recommended upgrades [list](https://makerhacks.com/upgrading-wanhao-di3/):
- - [ ] X-Axis levelling
+ - [ ] X-Axis levelling (https://www.thingiverse.com/thing:1138928)
  - [ ] Bed levelling
  - [ ] Glass / PEI bed protection
    - Glass bed (https://www.amazon.co.uk/gp/product/B00QM4LUN4)
@@ -27,7 +27,7 @@ Recommended upgrades [list](https://makerhacks.com/upgrading-wanhao-di3/):
  - [ ] Tweak acceleration and jerk
  - [ ] Duplicator 4 drive gear
  - [ ] Flex couplers
- - [ ] Z brace
+ - [ ] Z brace (http://3dprinterwiki.info/wiki/wanhao-duplicator-i3/duplicator-i3-basic-mods/z-brace/)
  - [ ] Swiss all metal hot end (https://www.amazon.co.uk/gp/product/B019H87E04)
  - [ ] Enclosure for entire product
  - [ ] Fan upgrades
