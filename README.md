@@ -13,7 +13,8 @@ For cloud control and monitoring, see [Octoprint](http://octoprint.org/#full-rem
 ## Planned upgrades
 
 - [ ] [Cura setup for i3 duplicator](https://www.youtube.com/watch?v=DDXo2GBmbtU)  
-Alternative Cura settings found [here](https://www.3dhubs.com/talk/thread/wanhao-duplicator-i3-cura-settinings).
+  - Alternative Cura settings found [here](https://www.3dhubs.com/talk/thread/wanhao-duplicator-i3-cura-settinings)
+- [ ] Set up Octoprint on raspberry pi (http://3dprinterwiki.info/wiki/wanhao-duplicator-i3/computer-software/octoprint-on-raspberry-pi/)
 
 Recommended upgrades [list](https://makerhacks.com/upgrading-wanhao-di3/):
  - [ ] X-Axis levelling (https://www.thingiverse.com/thing:1138928)
