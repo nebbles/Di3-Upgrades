@@ -5,31 +5,34 @@
 # Di3-Upgrades
 Upgrades for the [Wanhao Duplicator i3 V2.1 Printer](https://wanhaousa.com/products/duplicator-i3-steel-frame).
 
-For firmware upgrades see the following repository:  
-https://github.com/nepeee/i3Extra
+## Materials
 
-For cloud control and monitoring, see [Octoprint](http://octoprint.org/#full-remote-control-and-monitoring).
+- [x] PLA, White, 1kg ([PrimaValue](https://www.amazon.co.uk/dp/B013IHXBSE/ref=pe_385721_37986871_TE_item))
 
 ## Planned upgrades
 
 - [ ] [Cura setup for i3 duplicator](https://www.youtube.com/watch?v=DDXo2GBmbtU)  
   - Alternative Cura settings found [here](https://www.3dhubs.com/talk/thread/wanhao-duplicator-i3-cura-settinings)
-- [ ] Set up Octoprint on raspberry pi (http://3dprinterwiki.info/wiki/wanhao-duplicator-i3/computer-software/octoprint-on-raspberry-pi/)
+- [ ] Octoprint
+  - For cloud control and monitoring, see [Octoprint](http://octoprint.org/#full-remote-control-and-monitoring).
+  - [Set up Octoprint on Raspberry Pi](http://3dprinterwiki.info/wiki/wanhao-duplicator-i3/computer-software/octoprint-on-raspberry-pi/)
+- [ ] Firmware upgrades see: https://github.com/nepeee/i3Extra
+
 
 Recommended upgrades [list](https://makerhacks.com/upgrading-wanhao-di3/):
  - [ ] X-Axis levelling (https://www.thingiverse.com/thing:1138928)
  - [ ] Bed levelling
  - [ ] Glass / PEI bed protection
-   - Glass bed (https://www.amazon.co.uk/gp/product/B00QM4LUN4)
-   - Thermal pad (https://www.amazon.co.uk/gp/product/B00UYTTLI4)
-   - Hair spray, as adhesive (https://www.amazon.co.uk/gp/product/B00BNAORKU)
-   - Pritt stick, alternative adhesive (https://www.amazon.co.uk/gp/product/B0056EJITY)
+   - [ ] [Glass bed](https://www.amazon.co.uk/gp/product/B00QM4LUN4)
+   - [ ] [Thermal pad](https://www.amazon.co.uk/gp/product/B00UYTTLI4)
+   - [ ] [Hair spray](https://www.amazon.co.uk/gp/product/B00BNAORKU), as adhesive 
+   - [x] [Pritt stick](https://www.amazon.co.uk/gp/product/B0056EJITY), as adhesive 
  - [ ] Remove spring belt tensioners (https://www.thingiverse.com/thing:1820493)
  - [ ] Tweak acceleration and jerk
  - [ ] Duplicator 4 drive gear
  - [ ] Flex couplers
  - [ ] Z brace (http://3dprinterwiki.info/wiki/wanhao-duplicator-i3/duplicator-i3-basic-mods/z-brace/)
- - [ ] Swiss all metal hot end (https://www.amazon.co.uk/gp/product/B019H87E04)
+ - [ ] Swiss all-metal hot-end (https://www.amazon.co.uk/gp/product/B019H87E04)
  - [ ] Enclosure for entire product
  - [ ] Fan upgrades
  
