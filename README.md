@@ -17,6 +17,7 @@ Upgrades for the [Wanhao Duplicator i3 V2.1 Printer](https://wanhaousa.com/produ
   - For cloud control and monitoring, see [Octoprint](http://octoprint.org/#full-remote-control-and-monitoring).
   - [Set up Octoprint on Raspberry Pi](http://3dprinterwiki.info/wiki/wanhao-duplicator-i3/computer-software/octoprint-on-raspberry-pi/)
 - [ ] Firmware upgrades see: https://github.com/nepeee/i3Extra
+- [ ] [Simplify3D slicer software](https://www.simplify3d.com/buy-now/)
 
 
 Recommended upgrades [list](https://makerhacks.com/upgrading-wanhao-di3/):
