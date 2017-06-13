@@ -37,3 +37,8 @@ Recommended upgrades [list](https://makerhacks.com/upgrading-wanhao-di3/):
  - [ ] Enclosure for entire product
  - [ ] Fan upgrades
  
+Additional upgrades:
+ - [ ] X axis gantry alignment (https://www.youtube.com/watch?v=XaroNfMVE4M)
+ - [ ] Upgraded adjustable spool holder (https://www.thingiverse.com/thing:1753797)
+ - [ ] Mechanical mods (https://www.youtube.com/watch?v=WzvZnw9mZAs)
+ - [ ] Centre nozzle fan (https://www.thingiverse.com/thing:1620630)
