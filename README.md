@@ -1,6 +1,6 @@
-<a href="mailto:bsg115@ic.ac.uk?subject=3D%20Print%20Request&body=Attach%20your%20STL%20file.%0A%0AI%20need%20it%20by:%0APreferably%20print%20with%20this%20orientation:">
+<p align="center"><a href="mailto:bsg115@ic.ac.uk?subject=3D%20Print%20Request&body=Attach%20your%20STL%20file.%0A%0AI%20need%20it%20by:%0APreferably%20print%20with%20this%20orientation:">
    <img src="https://github.com/nebbles/Di3-Upgrades/blob/master/image.png" width="250">
-</a>
+</a></p>
 
 # Di3-Upgrades
 Upgrades for the [Wanhao Duplicator i3 V2.1 Printer](https://wanhaousa.com/products/duplicator-i3-steel-frame).
