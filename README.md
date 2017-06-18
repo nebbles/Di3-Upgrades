@@ -30,6 +30,7 @@ Recommended upgrades [list](https://makerhacks.com/upgrading-wanhao-di3/), in or
    - [x] [Hair spray (alternative)](https://www.amazon.co.uk/gp/product/B00BNAORKU), as adhesive
    - [ ] PEI print surface (currently not using PEI)
  - [ ] Z brace (http://3dprinterwiki.info/wiki/wanhao-duplicator-i3/duplicator-i3-basic-mods/z-brace/)
+ - [ ] Anti-vibration footing (https://www.amazon.co.uk/d/c7h/etm-Shock-Sound-Absorbent-Anti-Vibration-Mat-Appliances/B01939183G/)
  - [ ] X-Axis levelling (https://www.thingiverse.com/thing:1138928)
  - [ ] Remove spring belt tensioners (https://www.thingiverse.com/thing:1820493)
  - [ ] Tweak acceleration and jerk
