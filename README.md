@@ -21,6 +21,8 @@ Upgrades for the [Wanhao Duplicator i3 V2.1 Printer](https://wanhaousa.com/produ
 #### Software upgrades
  - [ ] [Octoprint](http://octoprint.org/)
    - [ ] [Set up Octoprint on Raspberry Pi](http://3dprinterwiki.info/wiki/wanhao-duplicator-i3/computer-software/octoprint-on-raspberry-pi/)
+   
+http://www.pronterface.com/
 
 #### Recommended upgrades [list](https://makerhacks.com/upgrading-wanhao-di3/), in order of installation
  - [x] Bed upgrade
